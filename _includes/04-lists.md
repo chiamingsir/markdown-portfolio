@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+- Java
+- Python
+- Cpp
+- PHP
+- Html
+- JavaScript
+- Css
